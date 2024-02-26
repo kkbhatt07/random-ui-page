@@ -1,0 +1,186 @@
+.dim{
+position: relative;
+width: 1440px;
+height: 835px;
+background: #7CBDC1;
+}
+.main{
+position: absolute;
+width: 1172px;
+height: 738px;
+left: 134px;
+top: 48px;
+background: #ffffff;
+border-radius: 26px;
+}
+.header{
+position: absolute;
+width: 1172px;
+height: 116px;
+left: 0px;
+top: 0px;
+background: #ffffff;
+border-radius: 26px 26px 0px 0px;
+}
+.logopic{
+    position: absolute;
+    width: 100px;
+    height: 40px;
+    left: 17px;
+    top: 18px;
+    border: 0;
+    background: url(logopic.png)
+}
+.login{
+position: absolute;
+width: 86px;
+height: 30px;
+left: 1060px;
+top: 21px;
+background: #000000;
+border-radius: 100px;
+border-color: #D9D9D9;
+}
+.signup{
+position: absolute;
+width: 93px;
+height: 30px;
+left: 955px;
+top: 21px;
+background: #ffffff;
+border-radius: 100px;
+}
+.bar{
+position: absolute;
+width: 1172px;
+height: 46px;
+left: 0px;
+top: 70px;
+border-color:black;
+background: #ffffff;
+}
+.bar-ele{
+position: absolute;
+width: 100px;
+height: 46px;
+left: 0px;
+top: 0px;
+border:0px;
+background: #ffffff;
+}
+.sellitems{
+position: absolute;
+width: 88px;
+height: 28px;
+left: 1024px;
+top: 9px;
+background-color:#EBF9FA;
+border-color:#B8E7EA;
+border-radius: 100px;
+}
+.cartpic{
+    position: absolute;
+    width:20px;
+    height: 20px;
+    left:1125px;
+    top:13px;
+    background:url('cartpic.png');
+    border: 0px;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.leadpic{
+position: absolute;
+width: 388px;
+height: 428px;
+left: 291px;
+top: 203px;
+background: url('leadpic1.png');
+border-radius: 29px;
+border:0px;
+}
+.sidepics1{
+position: absolute;
+width: 120px;
+height: 136px;
+left: 160px;
+top: 203px;
+background: url('sidepic1.png');
+border-radius: 20px;
+border:0px
+}
+.sidepics2{
+    position: absolute;
+    width: 120px;
+    height: 136px;
+    left: 160px;
+    top: 203px;
+    background: url('sidepic2.png');
+    border-radius: 20px;
+    border:0px
+    }
+.sidepics3{
+position: absolute;
+width: 120px;
+height: 136px;
+left: 160px;
+top: 203px;
+background: url('sidepic3.png');
+border-radius: 20px;
+border:0px
+    }
+.desc{
+position: absolute;
+width: 327px;
+height: 428px;
+left: 679px;
+top: 203px;
+background: #ffffff;
+}
+.profpic{
+    position: absolute;
+    width: 150px;
+    height: 80px;
+    left: 30px;
+    top: 38px;
+    border: 0px;
+    background: url("profpic.png");
+}
+.dolbut{
+position: absolute;
+width: 75px;
+height: 39px;
+left: 265px;
+top: 3px;
+border: 0px;
+background: url(dolbut.png);
+border-radius: 100px;
+}
+.atc{
+    position: absolute;
+width: 246px;
+height: 44px;
+left: 30px;
+top: 294px;
+background:black;
+border-radius: 100px;
+}
+.hrtbut{
+position: absolute;
+width: 44px;
+height: 44px;
+left: 279px;
+top: 294px;
+border-radius: 50px;
+}
+.infobut{
+    position: absolute;
+    width: 90px;
+    height: 20px;
+    left: 1212px;
+    top: 226px;
+    border: 0px;
+    background: #ffffff; 
+    background-repeat: no-repeat;
+    background-size: contain;  
+}
